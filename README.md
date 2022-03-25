@@ -4,4 +4,4 @@
 
 参考/教程: [https://github.com/newbee-ltd/newbee-mall](https://github.com/newbee-ltd/newbee-mall)
 
-感谢作者[https://github.com/newbee-ltd](https://github.com/newbee-ltd)
+感谢作者[https://github.com/newbee-mall](https://github.com/newbee-mall)
